@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gui%20Henrry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermehenrry/)](https://www.linkedin.com/in/guilhermehenrry/) [![Gmail Badge](https://img.shields.io/badge/-guilhermehenry60@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermehenry60@gmail.com)](mailto:kraghav123@gmail.com)
 
-Meu nome é Guilherme Henrry, sou desenvolvedor web front-end 👨‍💻 e entusiasta das melhores tecnologias para desenvolvimento web e gosto muito de UI/UX.
+Meu nome é Guilherme Henrry, sou desenvolvedor web front-end 👨‍💻, entusiasta das melhores tecnologias para desenvolvimento web e gosto muito de UI/UX.
 
 Atualmente estou aprendendo sobre: 
 - 💻 React
