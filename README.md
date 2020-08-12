@@ -8,7 +8,6 @@ Atualmente estou aprendendo sobre:
 - 💻 React
 - 🔌 Node
 - ⚡ NextJS
-- 🎛 Design System
 
 <!--
 **Guihenrry/Guihenrry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
